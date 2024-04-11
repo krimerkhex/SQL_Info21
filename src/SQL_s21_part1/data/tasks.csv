@@ -1,0 +1,6 @@
+title,parenttask,maxxp
+CPP1_s21_matrixplus,,300
+CPP2_s21_containers,CPP1_s21_matrixplus,500
+CPP3_SmartCalc_v2.0,CPP2_s21_containers,650
+CPP4_3DViewer_v2.0,CPP3_SmartCalc_v2.0,1050
+CPP5_MLP,CPP4_3DViewer_v2.0,1000

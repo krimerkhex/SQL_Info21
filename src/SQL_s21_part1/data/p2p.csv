@@ -1,0 +1,11 @@
+id,checkid,checkingpeer,status,time
+1,1,grandpat,Start,09:00:00
+2,1,grandpat,Success,09:30:00
+3,2,fritzkil,Start,14:00:00
+4,2,fritzkil,Failure,15:15:00
+5,3,jerlenem,Start,10:00:00
+6,3,jerlenem,Success,10:30:00
+7,4,tonitaga,Start,20:00:00
+8,4,tonitaga,Success,20:45:00
+9,5,carleneg,Start,22:15:00
+10,5,carleneg,Failure,23:00:00
